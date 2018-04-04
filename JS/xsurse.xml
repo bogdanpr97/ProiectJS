@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resurse>
+    <imagini>
+        <imagine tip="adversar" w="10" h="10" id="carte" aparitie="multipla">
+            img/Idle_001.png
+        </imagine>
+        
+        <imagine tip="jucator" w="20" h="20" id="jucator" aparitie="singulara">
+            img/Attack_005.png
+        </imagine>
+    </imagini> 
+    <sunete>
+        <sunet id="atac">
+            sound/atac.wav
+        </sunet>
+       
+    </sunete>
+</resurse>

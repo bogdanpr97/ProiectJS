@@ -1,0 +1,22 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<setari>
+    <nivele>
+        <incepator>
+            <nr_clienti>10</nr_clienti>
+            <viata_jucator>100</viata_jucator>
+            <viteza_aparitie>80</viteza_aparitie>
+        </incepator>
+        <mediu>
+           <nr_clienti>20</nr_clienti>
+            <viata_jucator>10</viata_jucator>
+          <viteza_aparitie>100</viteza_aparitie>
+        </mediu>
+        <avansat>
+            <nr_clienti>30</nr_clienti>
+             <viata_jucator>5</viata_jucator>
+            <<viteza_aparitie>180</viteza_aparitie>
+        </avansat>
+    </nivele>
+   
+</setari>

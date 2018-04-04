@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lang>
+    <mesaje lang="ro">
+        <mesaj id="fail">
+            Ai pierdut!
+        </mesaj>
+        <mesaj id="castig">
+            Ai castigat!
+        </mesaj>
+    </mesaje>
+    <mesaje lang="en">
+        <mesaj id="fail">
+            You failed!
+        </mesaj>
+        <mesaj id="castig">
+            You won!
+        </mesaj>
+    </mesaje>
+</lang>
